@@ -11,6 +11,8 @@ Here's what you're going to find in this corner of the web.
 
 **Thanks for stopping by!**
 
+>"You don't know what you don't know."
+
 You can use the [editor on GitHub](https://github.com/statsbynate/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
