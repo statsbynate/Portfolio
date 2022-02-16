@@ -12,5 +12,3 @@ Here's what you're going to find in this corner of the web.
 **Thanks for stopping by!**
 
 >"You don't know what you don't know."
-
- ![Image](src)
