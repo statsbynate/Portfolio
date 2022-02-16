@@ -10,5 +10,3 @@ Here's what you're going to find in this corner of the web.
     - You'll find a handful of projects here that I've created during my professional journey.
 
 **Thanks for stopping by!**
-
->"You don't know what you don't know."
