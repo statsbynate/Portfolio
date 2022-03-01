@@ -1,12 +1,9 @@
-## Welcome!
+## Data Science Projects
 
-Here's what you're going to find in this corner of the web.
+- #### [Data Mining & Machine Learning](https://docs.google.com/presentation/d/1Se28dT02pL_c11RqrJGuzovhn4mUuhNE/edit?usp=sharing&ouid=115694771896342290715&rtpof=true&sd=true)
+    - A group project completed in one of my MBA business analytics courses at the University of North Texas. Our group cleaned, explored, modeled and evaluated data for road accidents in the United States. Our project was evaluated as best in class. 
+- #### [SQL](class.md)
+    - A variety of SQL queries performed through exercises provided on [HackerRank](https://www.hackerrank.com).
+- #### [Tableau (COVID-19 Dashboard)](https://public.tableau.com/views/DFWCoronavirus/DFWDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+    - A dashboard I built for executives in our office which helped them make business operations decisions (WFH vs. in-office). 
 
-- #### [Personal Curiosities & Musings](personal.md)
-    - These are projects I've created along the way which I use to learn things like SQL, R, [Tableau](https://public.tableau.com/app/profile/nathanjwelsch), etc. These also feed my curiosities and are projects that I find to be fun!
-- #### [Class Projects](class.md)
-    - Through my journey of obtaining a MBA in Business Analytics from the University of North Texas, I have a variety of single and group projects to share which I believe display important data science skills such as data cleaning, data wrangling, applied statistics, machine learning, and much more. 
-- #### [Professional Projects](professional.md)
-    - You'll find a handful of projects here that I've created during my professional journey.
-
-**Thanks for stopping by!**
