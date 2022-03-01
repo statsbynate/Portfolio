@@ -4,7 +4,7 @@
     - A group project completed in one of my MBA business analytics courses at the University of North Texas. Our group cleaned, explored, modeled and evaluated data for road accidents in the United States. Our project was evaluated as best in class. 
 - #### [RStudio](Rstudio.md)
     - A collection of visuals created in RStudio. Most of which are personal sports-based projects. 
-- #### [SQL](SQL.md)
+- #### [SQL](sql.md)
     - A variety of SQL queries performed through exercises provided on [HackerRank](https://www.hackerrank.com).
 - #### [Tableau (COVID-19 Dashboard)](https://public.tableau.com/views/DFWCoronavirus/DFWDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
     - A dashboard I built for executives in our office which helped them make business operations decisions (WFH vs. in-office). 
