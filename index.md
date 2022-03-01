@@ -9,3 +9,5 @@
 - #### [Tableau (COVID-19 Dashboard)](https://public.tableau.com/views/DFWCoronavirus/DFWDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
     - A dashboard I built for executives in our office which helped them make business operations decisions (WFH vs. in-office). 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nathan-welsch)
+&nbsp;
