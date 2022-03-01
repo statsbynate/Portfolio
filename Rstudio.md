@@ -13,7 +13,7 @@ In this visualization, I was curious about strength of schedule plotted against 
 
 ![badgerqbs](https://user-images.githubusercontent.com/97853367/156208455-4212ca82-7411-449d-8d0b-9a09a6de1262.png)
 
-Here I visualized performance of Wisconsin Badger quarterbacks since the beginning of the the Barry Alvarez era. Basically, Russel Wilson was as great as we remember him being.
+Here I visualized performance of Wisconsin Badger quarterbacks since the beginning of the the Barry Alvarez era. Basically, Russell Wilson was as great as we remember him being.
 
 
 -------------------------------------------------------------
