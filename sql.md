@@ -8,14 +8,14 @@ Below you will have a variety of SQL queries I've executed. These are mostly der
 
 *Task --> Query a count of the number of cities in CITY having a Population larger than 100,000.*
 
-**SELECT** COUNT(NAME) 
-  **FROM** CITY 
+**SELECT** COUNT(NAME) <br/>
+  **FROM** CITY <br/>
   **WHERE** POPULATION >= 100000;
 
 *Task --> Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.*
 
-**SELECT** *
-    **FROM** CITY
+**SELECT** *<br/>
+    **FROM** CITY<br/>
     **WHERE** POPULATION >= 100000 AND COUNTRYCODE = 'USA'
 
 ### Medium-Level Queries
@@ -31,11 +31,11 @@ Query the number of ocurrences of each occupation in OCCUPATIONS. Sort the occur
 *where [occupation_count] is the number of occurrences of an occupation in OCCUPATIONS and [occupation] is the lowercase occupation name. If more than one Occupation has the same [occupation_count], they should be ordered alphabetically.*
 
 
-**SELECT** (NAME || '(' || SUBSTR(OCCUPATION,1,1) || ')') 
-**FROM** OCCUPATIONS 
+**SELECT** (NAME || '(' || SUBSTR(OCCUPATION,1,1) || ')') <br/>
+**FROM** OCCUPATIONS <br/>
 **ORDER BY** NAME ASC;
 
-**SELECT** ('There are a total of' || ' ' || COUNT(OCCUPATION) || ' ' || LOWER(OCCUPATION) || 's' || '.')
-**FROM** OCCUPATIONS
-**GROUP BY** OCCUPATION
+**SELECT** ('There are a total of' || ' ' || COUNT(OCCUPATION) || ' ' || LOWER(OCCUPATION) || 's' || '.')<br/>
+**FROM** OCCUPATIONS<br/>
+**GROUP BY** OCCUPATION<br/>
 **ORDER BY** COUNT(OCCUPATION), OCCUPATION ASC;
